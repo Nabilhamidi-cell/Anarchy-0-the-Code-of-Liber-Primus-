@@ -1,0 +1,1 @@
+While studying the Cicada 3301 Liber Primus, I applied my empirical framework anarchy = 0 to the ciphertext. The interpretation it generated aligned with the already-solved sections of the book. The resulting conceptual key suggests that anarchy = 0 corresponds to self-divinity — or, more precisely, self-sovereignty.
